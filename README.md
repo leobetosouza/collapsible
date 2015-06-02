@@ -162,8 +162,9 @@ $( '.responsive-tabs' ).collapsible({
 });
 ```
 
-## Milestones
+## TODO
 
-* Better accessibility
+* Better accessibility with keyboard controls
+* Documentation
 * Tests
 * Automation (linting, code compression, tests)
